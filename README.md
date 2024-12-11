@@ -18,7 +18,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/biavecchi/prompts-recipe-to-create-a-ebook" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/biavecchi/prompts-to-create-a-ebook/blob/main/output/A%20liga%20python.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
